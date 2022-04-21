@@ -1,5 +1,5 @@
 - 👋 HI, MY NAME IS GUILHERME
-- 📚 SOFTWARE ENGINER STUDENT and development front-end
+- 📚 SOFTWARE ENGINER STUDENT and  front end developer
 - 🎉 21 YEARS
 - 📩 CONTACT +55 11 942554731 OR EMAIL:sgtgilherme@hotmail.com
 
