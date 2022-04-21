@@ -1,7 +1,7 @@
-- 👋 oi, eu sou Guilherme simoes
-- 📚 Engenharia de software
-- 🎉 21 anos 
-- 📩 whatsapp (11)942554731
+- 👋 HI, MY NAME IS GUILHERME
+- 📚 SOFTWARE ENGINER STUDENT and development front-end
+- 🎉 21 YEARS
+- 📩 CONTACT +55 11 942554731 OR EMAIL:sgtgilherme@hotmail.com
 
 <!---
 Guilhermessimoes01/Guilhermessimoes01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
