@@ -13,4 +13,4 @@
 
 ## Skills
 
-<img align="center" alt="Js" heigth="28" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> <img align="center" alt="C#" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c#/c#-original.svg">
+<img align="center" alt="Js" heigth="28" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> <img align="center" alt="C#" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
