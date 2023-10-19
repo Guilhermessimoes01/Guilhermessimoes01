@@ -1,7 +1,7 @@
 - Sao Paulo,  :brazil:
 - Estudante de Engenharia de Software. 
 - Desenvolvedor Back-end c#
-- Trabalho na empresa Narwal Sistemas como PJ
+
 
 <div style="display:inline-block"> 
   <a href="https://github.com/Guilhermessimoes01"></a>
