@@ -2,15 +2,19 @@
 - Estudante de Engenharia de Software. 
 - Desenvolvedor Back-end c#
 
+Me Chamo Guilherme, Estudante de Engenharia de Software e desenvolvedor BACKEND com um ano de experiência em C# .NET. 
+Gosto de enfrentar desafios e criar soluções eficientes.
 
-<div style="display:inline-block"> 
-  <a href="https://github.com/Guilhermessimoes01"></a>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Guilhermessimoes01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" /> 
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermessimoes01&layout=compact&langs_count=16&theme=dracula" />
-</div>
+Pontos Fortes:
+- Experiência sólida em desenvolvimento BACKEND com C# .NET.
+- Habilidades afiadas em SQL e arquiteturas escaláveis.
+- Comprometido com a melhoria contínua e aprendizado constante.
 
-<a href = "https://www.linkedin.com/in/guilherme-simoes-12514b194/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/guilheessimoes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+Missão:
+- Transformar desafios em oportunidades de crescimento.
+- Contribuir para projetos inovadores e de impacto.
+
+Aberto para colaborações e aprendizado compartilhado.
 
 ## Skills
 
