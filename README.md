@@ -1,4 +1,4 @@
-Me Chamo Guilherme, Estudante de Engenharia de Software e desenvolvedor BACKEND com um ano de experiência em C# .NET. 
+Olá,   Sou o Guilherme, Estudante de Engenharia de Software e desenvolvedor BACKEND com um ano de experiência em C# .NET. 
 Gosto de enfrentar desafios e criar soluções eficientes.
 
 Pontos Fortes:
