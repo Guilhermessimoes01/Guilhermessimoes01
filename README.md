@@ -1,16 +1,23 @@
-Olá,   Sou o Guilherme, Estudante de Engenharia de Software e desenvolvedor BACKEND com um ano de experiência em C# .NET. 
-Gosto de enfrentar desafios e criar soluções eficientes.
+Sou um Desenvolvedor .NET com experiência em projetar, desenvolver e manter software escalável e robusto. Minha trajetória profissional abrange uma ampla expertise no ecossistema .Net e .NET Core, com um foco especial em tecnologias como HTML, CSS e JavaScript para o desenvolvimento front-end. Além disso, sou versado em metodologias ágeis, com proficiência em SCRUM e KANBAN, o que me permite contribuir de forma eficaz para projetos dinâmicos e colaborativos.
 
-Pontos Fortes:
-- Experiência sólida em desenvolvimento BACKEND com C# .NET.
-- Habilidades afiadas em SQL e arquiteturas escaláveis.
-- Comprometido com a melhoria contínua e aprendizado constante.
 
-Missão:
-- Transformar desafios em oportunidades de crescimento.
-- Contribuir para projetos inovadores e de impacto.
+Minhas Habilidades incluem: 
 
-Aberto para colaborações e aprendizado compartilhado.
+
+- Desenvolvimento .NET Core, .Net, C#.
+
+- Desenvolvimento Front-End com AngularJS, Blazor, HTML, CSS, JavaScript.
+
+- Desenvolvimento em bancos de dados SQL Server, Oracle e MySQL.
+
+- Desenvolvimento de API Rest.
+
+- Integração de sistemas e bancos de dados.
+
+- Experiência em migração de sistemas legados.
+
+
+Estou em busca de oportunidades para continuar crescendo e contribuir com projetos desafiadores.
 
 ## Skills
 
